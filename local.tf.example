@@ -1,0 +1,6 @@
+locals {
+  default_region = "europe-north1"
+  default_zone = "europe-north1-a"
+  prod_dns_name = "###PROJECT_DNS_NAME###."
+  project_name = "###PROJECT_NAME###"
+}

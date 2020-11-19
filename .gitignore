@@ -1,0 +1,6 @@
+account.json
+*.tfstate
+*.tfstate.backup
+.terraform/
+local.tf
+gcp.ovpn
